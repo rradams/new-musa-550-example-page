@@ -15,6 +15,10 @@ This single-page website demos how to display visualizations created with altair
 
 For examples of how to use markdown to style text, see this [this page](./another-page.html).
 
+# Example 0: Remember how to use Altair
+
+I will attempt to remember how to use Altair and include an Altair plot here.
+
 # Example: Embedding Altair & Hvplot Charts
 
 This section will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
